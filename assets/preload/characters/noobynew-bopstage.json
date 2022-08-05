@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				141
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nooby left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				137
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nooby down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				143
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nooby up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				27,
+				138
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nooby right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				143
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "nooby idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "nooby idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "nooby left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "nooby right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "nooby up"
+		},
+		{
+			"offsets": [
+				10,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "nooby v pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nooby",
+	"position": [
+		-130,
+		490
+	],
+	"healthicon": "noobyblox",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		40
+	],
+	"camera_position": [
+		0,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

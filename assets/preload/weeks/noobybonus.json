@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Twennietens",
+			"noobyblox",
+			[
+				255,
+				0,
+				20
+			]
+		],
+		[
+			"Interference",
+			"ownerblox",
+			[
+				255,
+				0,
+				20
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "crossroads",
+	"weekCharacters": [
+		"nooby",
+		"bf",
+		"gf"
+	],
+	"storyName": "You shouldn't be able to see this.",
+	"weekName": "NOOBYBONUS",
+	"freeplayColor": [
+		255,
+		0,
+		20
+	],
+	"hideStoryMode": true,
+	"weekBefore": "NOOBY",
+	"startUnlocked": false
+}

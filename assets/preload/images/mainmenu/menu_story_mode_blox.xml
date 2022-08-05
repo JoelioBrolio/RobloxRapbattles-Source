@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_story_mode_blox.png"><SubTexture name="story_mode_blox basic0000" x="0" y="0" width="1316" height="404" frameX="0" frameY="0" frameWidth="1316" frameHeight="404" />
+<SubTexture name="story_mode_blox white0000" x="0" y="404" width="1316" height="404" frameX="0" frameY="0" frameWidth="1316" frameHeight="404" />
+</TextureAtlas>

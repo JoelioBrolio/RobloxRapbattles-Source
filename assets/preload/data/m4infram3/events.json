@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "crossroadsHaxxed",
+		"player1": "bfsilhouette",
+		"player2": "haxorsilhouette",
+		"player3": null,
+		"events": [
+			[
+				1263.15789473684,
+				[
+					[
+						"M41NFR4M3 Tweening",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				10105.2631578947,
+				[
+					[
+						"Hacked Reveal",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"haxornew"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				101210.526315789,
+				[
+					[
+						"Play Animation",
+						"mad",
+						"dad"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"M41NFR4M3 Tweening",
+						"0",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"haxorsilhouette"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfsilhouette"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "M4INFRAM3"
+	}
+}

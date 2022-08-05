@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="haxorsilhouette.png"><SubTexture name="haxor down10000" x="0" y="0" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor down20000" x="923" y="0" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle10000" x="1846" y="0" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle20000" x="2769" y="0" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle30000" x="3692" y="0" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle40000" x="0" y="857" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle50000" x="923" y="857" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor idle60000" x="1846" y="857" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor left10000" x="2769" y="857" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor left20000" x="3692" y="857" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad10000" x="0" y="1714" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad20000" x="923" y="1714" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad30000" x="1846" y="1714" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad40000" x="2769" y="1714" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad50000" x="3692" y="1714" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad60000" x="0" y="2571" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad70000" x="923" y="2571" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad80000" x="1846" y="2571" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad90000" x="2769" y="2571" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad100000" x="3692" y="2571" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad110000" x="0" y="3428" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor mad120000" x="923" y="3428" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor right10000" x="1846" y="3428" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor right20000" x="2769" y="3428" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor up10000" x="3692" y="3428" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor up20000" x="0" y="4285" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+<SubTexture name="haxor up30000" x="923" y="4285" width="923" height="857" frameX="0" frameY="0" frameWidth="923" frameHeight="857" />
+</TextureAtlas>

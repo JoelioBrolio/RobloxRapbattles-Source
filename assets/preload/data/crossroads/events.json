@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": null,
+		"player1": "bf",
+		"player2": "noobynew",
+		"player3": null,
+		"events": [
+			[
+				10050,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				19950,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				40050,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				49950,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				69900,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				79950,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "crossroads"
+	}
+}

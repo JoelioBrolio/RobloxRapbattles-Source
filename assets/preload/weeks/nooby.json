@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"crossroads",
+			"noobyblox",
+			[
+				255,
+				0,
+				20
+			]
+		],
+		[
+			"pwned",
+			"noobyblox",
+			[
+				255,
+				0,
+				20
+			]
+		],
+		[
+			"m4infram3",
+			"haxorblox",
+			[
+				20,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "crossroads",
+	"weekCharacters": [
+		"nooby",
+		"bf",
+		"gf"
+	],
+	"storyName": "Welcome to Roblox",
+	"weekName": "NOOBY",
+	"freeplayColor": [
+		255,
+		0,
+		20
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

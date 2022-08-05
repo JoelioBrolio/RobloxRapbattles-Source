@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_credits_blox.png"><SubTexture name="credits_blox basic0000" x="0" y="0" width="1289" height="732" frameX="0" frameY="0" frameWidth="1289" frameHeight="732" />
+<SubTexture name="credits_blox white0000" x="0" y="732" width="1289" height="732" frameX="0" frameY="0" frameWidth="1289" frameHeight="732" />
+</TextureAtlas>

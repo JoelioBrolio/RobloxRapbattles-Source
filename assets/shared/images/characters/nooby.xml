@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nooby.png"><SubTexture name="nooby idle0000" x="0" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby idle0001" x="697" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby idle0002" x="1394" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby idle0003" x="2091" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby idle0004" x="0" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby left0000" x="697" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby left0001" x="1394" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby down0000" x="2091" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby down0001" x="0" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby up0000" x="697" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby up0001" x="1394" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby right0000" x="2091" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby right0001" x="0" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby v pose0000" x="697" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby v pose0001" x="1394" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby v pose0002" x="2091" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="nooby miss0000" x="0" y="2588" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="nooby miss0001" x="696" y="2588" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ownernew.png"><SubTexture name="ownernew idle0000" x="0" y="0" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew idle0001" x="696" y="0" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew idle0002" x="1392" y="0" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew idle0003" x="0" y="646" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew LEFT0000" x="696" y="646" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew LEFT0001" x="1392" y="646" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew DOWN0000" x="0" y="1292" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew DOWN0001" x="696" y="1292" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew UP0000" x="1392" y="1292" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew UP0001" x="0" y="1938" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew RIGHT0000" x="696" y="1938" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+<SubTexture name="ownernew RIGHT0001" x="1392" y="1938" width="696" height="646" frameX="0" frameY="0" frameWidth="696" frameHeight="646" />
+</TextureAtlas>

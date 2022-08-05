@@ -1,0 +1,299 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "crossroads",
+		"player1": "bf",
+		"player2": "ownernew",
+		"player3": null,
+		"events": [
+			[
+				3636.36363636364,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				9454.54545454545,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				11636.3636363636,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				14909.0909090909,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				18727.2727272727,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				22545.4545454545,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				24363.6363636364,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				26545.4545454546,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				27272.7272727273,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				29090.9090909091,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				31272.7272727273,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				33454.5454545455,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				45090.9090909091,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				56727.2727272728,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				68363.6363636364,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				74181.8181818182,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				82545.4545454546,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				85818.1818181819,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				94545.4545454546,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				116363.636363636,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				121454.545454546,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				123272.727272727,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				126909.090909091,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				128363.636363636,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				129090.909090909,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Interference"
+	}
+}

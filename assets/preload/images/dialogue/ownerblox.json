@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-60,
+		-140
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "ownerBlox neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ownerBlox neutral",
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ownerBlox"
+}

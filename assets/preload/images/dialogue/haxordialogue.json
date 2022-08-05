@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-240
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "evil",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue normal",
+			"loop_name": "haxordialogue normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue smug",
+			"loop_name": "haxordialogue smug"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shrug",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue shrug",
+			"loop_name": "haxordialogue shrug"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue shocked",
+			"loop_name": "haxordialogue shocked"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue annoyed",
+			"loop_name": "haxordialogue annoyed"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxordialogue unamused",
+			"loop_name": "haxordialogue unamused"
+		},
+		{
+			"loop_name": "haxordialogue shocked",
+			"idle_offsets": [
+				510,
+				0
+			],
+			"idle_name": "haxordialogue shocked",
+			"anim": "gone",
+			"loop_offsets": [
+				510,
+				0
+			]
+		}
+	],
+	"image": "haxordialogue"
+}

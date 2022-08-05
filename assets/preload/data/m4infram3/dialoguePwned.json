@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "oof i gtg :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "oof :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": ""
+		}
+	]
+}

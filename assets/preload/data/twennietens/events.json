@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": null,
+		"player1": "bf-bopstage",
+		"player2": "noobynew-bopstage",
+		"player3": null,
+		"events": [
+			[
+				6193.54838709677,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				12387.0967741935,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				24774.1935483871,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				30967.7419354839,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				37161.2903225807,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				43354.8387096774,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				49548.3870967742,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				55741.935483871,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				61935.4838709678,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				68129.0322580646,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				74322.5806451614,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				80516.1290322582,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				86709.6774193549,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				92903.2258064517,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				99096.7741935485,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				105290.322580645,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				111483.870967742,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bopstage",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Twennietens"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "hey"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ownerbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "wanna rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ownerbloxdialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ownerbloxdialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "fine"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "awesome"
+		}
+	]
+}

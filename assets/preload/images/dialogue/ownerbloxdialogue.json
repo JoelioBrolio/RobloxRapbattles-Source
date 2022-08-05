@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-70,
+		-240
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "ownerBloxDialogue normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ownerBloxDialogue normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ownerBloxDialogue unamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ownerBloxDialogue unamused",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ownerBloxDialogue"
+}

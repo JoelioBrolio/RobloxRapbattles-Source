@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ownerBloxDialogue.png"><SubTexture name="ownerBloxDialogue normal0000" x="0" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="ownerBloxDialogue unamused0000" x="0" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+</TextureAtlas>

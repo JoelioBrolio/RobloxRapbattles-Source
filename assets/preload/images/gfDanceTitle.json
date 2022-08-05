@@ -1,0 +1,11 @@
+{	
+	"titlex":-50,
+	"titley":-30,
+	"titlesize":0.8,
+	"startx":0,
+	"starty":0,
+	"gfx":512,
+	"gfy":40,
+	"backgroundSprite":"bloxTitleBG",
+	"bpm":130
+}

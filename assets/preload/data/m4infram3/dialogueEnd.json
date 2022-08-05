@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "okay so clearly i won that one"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "okay but i can still hack you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "no you cant"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "evil",
+			"text": "############### yes i can idiot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "since when"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "since in about 10 seconds idiot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfbloxdialogue",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "youve gotta be kidding me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "welp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ownerbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "h"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "gone",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "WE'VE BEEN SAVED"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ownerbloxdialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "he cant even find a working hack client"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "WHAT"
+		}
+	]
+}

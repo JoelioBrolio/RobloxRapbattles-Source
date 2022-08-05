@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="titleSignUp.png"><SubTexture name="titleSignUp waiting0000" x="0" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="titleSignUp pressed0000" x="0" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="titleSignUp pressed0001" x="0" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="titleSignUp pressed0002" x="0" y="724" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+<SubTexture name="titleSignUp pressed0003" x="0" y="0" width="1284" height="724" frameX="0" frameY="0" frameWidth="1284" frameHeight="724" />
+</TextureAtlas>

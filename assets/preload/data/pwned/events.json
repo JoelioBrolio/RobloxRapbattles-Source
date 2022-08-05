@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "crossroadsBop",
+		"player1": "bf-bopstage",
+		"player2": "noobynew-bopstage",
+		"player3": null,
+		"events": [
+			[
+				5900,
+				[
+					[
+						"Stage Event",
+						"explosion",
+						""
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Stage Event",
+						"bomb",
+						""
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Stage Event",
+						"rocket",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Stage Event",
+						"bounce",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pwned"
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crossroadsBopIt.png"><SubTexture name="bopIt0000" x="0" y="0" width="1975" height="1082" frameX="0" frameY="0" frameWidth="1975" frameHeight="1082" />
+<SubTexture name="bopIt0001" x="1975" y="0" width="1975" height="1082" frameX="0" frameY="0" frameWidth="1975" frameHeight="1082" />
+<SubTexture name="bopIt0002" x="0" y="1082" width="1975" height="1082" frameX="0" frameY="0" frameWidth="1975" frameHeight="1082" />
+<SubTexture name="bopIt0003" x="1975" y="1082" width="1975" height="1082" frameX="0" frameY="0" frameWidth="1975" frameHeight="1082" />
+<SubTexture name="bopIt0004" x="0" y="2164" width="1975" height="1082" frameX="0" frameY="0" frameWidth="1975" frameHeight="1082" />
+</TextureAtlas>

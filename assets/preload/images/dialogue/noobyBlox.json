@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-30,
+		-150
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "noobyNew normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyNew normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobyNew pog",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobyNew pog",
+			"anim": "pog",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobyNew miss",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "noobyNew miss",
+			"anim": "miss",
+			"loop_offsets": [
+				-30,
+				0
+			]
+		}
+	],
+	"image": "noobyBlox"
+}

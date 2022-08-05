@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-30,
+		-160
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "haxorBlox evil",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxorBlox evil",
+			"anim": "evil",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "haxorBlox smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxorBlox smug",
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "haxorBlox miss",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "haxorBlox miss",
+			"anim": "miss",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "haxorBlox"
+}

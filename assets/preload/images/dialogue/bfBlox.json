@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		-130
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "bfNew normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfNew challenge",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew challenge",
+			"anim": "challenge",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfNew pog",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew pog",
+			"anim": "pog",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfNew bored",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew bored",
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfNew miss",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew miss",
+			"anim": "miss",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bfNew scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfNew scared",
+			"anim": "scared",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bfBlox"
+}

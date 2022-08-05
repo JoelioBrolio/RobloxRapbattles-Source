@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-90,
+		-280
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue normal",
+			"loop_name": "bfBloxDialogue normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "oof",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue miss",
+			"loop_name": "bfBloxDialogue miss"
+		},
+		{
+			"idle_offsets": [
+				5,
+				0
+			],
+			"anim": "challenge",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "bfBloxDialogue challenge",
+			"loop_name": "bfBloxDialogue challenge"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue unamused",
+			"loop_name": "bfBloxDialogue unamused"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue shocked",
+			"loop_name": "bfBloxDialogue shocked"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue smug",
+			"loop_name": "bfBloxDialogue smug"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue bored",
+			"loop_name": "bfBloxDialogue bored"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "clueless",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue clueless",
+			"loop_name": "bfBloxDialogue clueless"
+		},
+		{
+			"loop_name": "bfBloxDialogue angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bfBloxDialogue angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bfbloxdialogue"
+}

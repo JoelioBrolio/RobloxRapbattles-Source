@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "############# WHAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "WHAT DID YOU DO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "hacked your server lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "clueless",
+			"text": "oh ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfbloxdialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "actually i think thats a bad thing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "oh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "well you cant hack me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "yes i can"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "L"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "not until we sing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "i win, you leave, you win, we leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "but"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "haxordialogue",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "ok whatever"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "awesome"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "yay"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "so how about round 2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "ok"
+		}
+	]
+}

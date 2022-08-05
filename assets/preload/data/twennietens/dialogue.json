@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "hi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "oh hey i didnt think id find you here again"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "but didnt you get like uhh banned or hacked"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "oof",
+			"text": "or something i forgot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "yeah but i'm unbanned"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "epic"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbloxdialogue",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "ok 1v1"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "noobydialogue",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "sure"
+		}
+	]
+}

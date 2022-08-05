@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "noobyBlox",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "ok i gtg :(("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfBlox",
+			"boxState": "normal",
+			"expression": "miss",
+			"text": "aw man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfBloxPortrait",
+			"boxState": "normal",
+			"expression": "gf-normal",
+			"text": "i guess we should get going-"
+		}
+	]
+}

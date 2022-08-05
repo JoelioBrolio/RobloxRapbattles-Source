@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Nooby.png"><SubTexture name="Menu_Nooby Idle0000" x="0" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0001" x="697" y="0" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0002" x="0" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0003" x="697" y="647" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0004" x="0" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0005" x="697" y="1294" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0006" x="0" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+<SubTexture name="Menu_Nooby Idle0007" x="697" y="1941" width="697" height="647" frameX="0" frameY="0" frameWidth="697" frameHeight="647" />
+</TextureAtlas>

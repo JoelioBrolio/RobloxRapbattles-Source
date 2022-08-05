@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="haxordialogue.png"><SubTexture name="haxordialogue normal0000" x="0" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="haxordialogue smug0000" x="804" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="haxordialogue shrug0000" x="0" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="haxordialogue shocked0000" x="804" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="haxordialogue annoyed0000" x="0" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="haxordialogue unamused0000" x="804" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+</TextureAtlas>

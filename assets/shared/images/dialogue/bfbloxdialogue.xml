@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfBloxDialogue.png"><SubTexture name="bfBloxDialogue normal0000" x="0" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue miss0000" x="804" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue challenge0000" x="1608" y="0" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue unamused0000" x="0" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue shocked0000" x="804" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue smug0000" x="1608" y="804" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue angry0000" x="0" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue bored0000" x="804" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="bfBloxDialogue clueless0000" x="1608" y="1608" width="804" height="804" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+</TextureAtlas>

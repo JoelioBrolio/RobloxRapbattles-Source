@@ -1,0 +1,50 @@
+{
+	"position": [
+		-110,
+		-90
+	],
+	"dialogue_pos": "center",
+	"scale": 0.899999999999999,
+	"image": "gfBloxPortrait",
+	"animations": [
+		{
+			"loop_name": "gfBloxPortrait cry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxPortrait cry",
+			"anim": "gf-cry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxPortrait normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxPortrait normal",
+			"anim": "gf-normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxPortrait awkward",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxPortrait awkward",
+			"anim": "gf-awkward",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-40,
+		-260
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "noobydialogue normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobydialogue normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobydialogue oof",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobydialogue oof",
+			"anim": "oof",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noobydialogue happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noobydialogue happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "noobydialogue"
+}

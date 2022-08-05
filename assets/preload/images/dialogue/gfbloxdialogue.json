@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-100,
+		-230
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "gfBloxDialogue normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxDialogue unamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue unamused",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxDialogue cry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue cry",
+			"anim": "cry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxDialogue angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxDialogue bored",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue bored",
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gfBloxDialogue miss",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gfBloxDialogue miss",
+			"anim": "miss",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "gfBloxDialogue"
+}

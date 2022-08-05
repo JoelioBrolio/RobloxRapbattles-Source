@@ -1,0 +1,17 @@
+{
+	"directory": "crossroads",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+	"boyfriend": [
+		770,
+		395
+	],
+	"girlfriend": [
+		400,
+		395
+	],
+	"opponent": [
+		100,
+		120
+	]
+}
