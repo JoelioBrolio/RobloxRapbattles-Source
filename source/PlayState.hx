@@ -342,12 +342,15 @@ class PlayState extends MusicBeatState
 		// var gameCam:FlxCamera = FlxG.camera;
 		camGame = new FlxCamera();
 		camHUD = new FlxCamera();
+		camDialogue = new FlxCamera();
 		camOther = new FlxCamera();
 		camHUD.bgColor.alpha = 0;
+		camDialogue.bgColor.alpha = 0;
 		camOther.bgColor.alpha = 0;
 
 		FlxG.cameras.reset(camGame);
 		FlxG.cameras.add(camHUD);
+		FlxG.cameras.add(camDialogue);
 		FlxG.cameras.add(camOther);
 		grpNoteSplashes = new FlxTypedGroup<NoteSplash>();
 
@@ -1214,7 +1217,7 @@ class PlayState extends MusicBeatState
 		funkyTxt.visible = !ClientPrefs.hideHud;
 		add(funkyTxt);
 		if(!ClientPrefs.downScroll) {
-			funkyTxt.y = healthBarBG.y + 70;
+			funkyTxt.y = healthBarBG.y + 20;
 		}
 
 		dadFunkyTxt = new FlxText(-475, healthBarBG.y - 70, FlxG.width, "", 36);
@@ -1224,7 +1227,7 @@ class PlayState extends MusicBeatState
 		dadFunkyTxt.visible = !ClientPrefs.hideHud;
 		add(dadFunkyTxt);
 		if(!ClientPrefs.downScroll) {
-			dadFunkyTxt.y = healthBarBG.y + 70;
+			dadFunkyTxt.y = healthBarBG.y + 20;
 		}
 
 		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
@@ -1709,7 +1712,7 @@ class PlayState extends MusicBeatState
 			}
 			doof.nextDialogueThing = startNextDialogue;
 			doof.skipDialogueThing = skipDialogue;
-			doof.cameras = [camHUD];
+			doof.cameras = [camDialogue];
 			add(doof);
 		} else {
 			FlxG.log.warn('Your dialogue file is badly formatted!');
